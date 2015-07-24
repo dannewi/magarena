@@ -1,5 +1,10 @@
-Magarena 
+Magarena - Ladder
 ========
+Fork of the magarena project, this is for adding a ladder play to magarena, inspired by forge quest system.
+Will probably start out quite hackish to get gooing. If this is able to keep my intrest I will make the code nicer.
+
+
+=======
 Homepage: http://magarena.github.io
 
 Forum   : http://www.slightlymagic.net/forum/viewforum.php?f=82
